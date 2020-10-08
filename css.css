@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #333;
+    background: url(img/main-bg.gif)
+}
+.logo {
+  text-align: center;
+  border: 10px solid green;
+  border-radius: 50%;
+}
+.navig {
+  border-radius: 50%;
+  text-align: center;
+}
+span {
+  border: 2px solid green;
+  padding: 3px;
+  border-radius: 5%;
+}
+.footer{
+  border: 8px solid green;
+  text-align: center;
+}
+.main {
+
+}
